@@ -32,7 +32,7 @@ I love building projects, learning new technologies, and sharing knowledge with 
 🛢️ Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" width="30" /> <img src="https://skillicons.dev/icons?i=mongodb" width="30" />  </p>
 ☁️ Cloud & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws" width="30" /> <img src="https://skillicons.dev/icons?i=docker" width="30" /> <img src="https://skillicons.dev/icons?i=vercel" width="30" /> <img src="https://skillicons.dev/icons?i=netlify" width="30" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws" width="30" /> <img src="https://skillicons.dev/icons?i=docker" width="30" />  <img src="https://skillicons.dev/icons?i=netlify" width="30" /> </p>
 ⚙️ Tools & Others
 <p align="left"> <img src="https://skillicons.dev/icons?i=git" width="30" /> <img src="https://skillicons.dev/icons?i=github" width="30" /> <img src="https://skillicons.dev/icons?i=vscode" width="30" /> <img src="https://skillicons.dev/icons?i=linux" width="30" /> <img src="https://skillicons.dev/icons?i=figma" width="30" /> <img src="https://skillicons.dev/icons?i=postman" width="30" /> </p>
 
