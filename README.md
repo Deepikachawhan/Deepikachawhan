@@ -37,10 +37,6 @@ I love building projects, learning new technologies, and sharing knowledge with 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git" width="30" /> <img src="https://skillicons.dev/icons?i=github" width="30" /> <img src="https://skillicons.dev/icons?i=vscode" width="30" /> <img src="https://skillicons.dev/icons?i=linux" width="30" /> <img src="https://skillicons.dev/icons?i=figma" width="30" /> <img src="https://skillicons.dev/icons?i=postman" width="30" /> </p>
 ---
 
-# 🛠️ Tools & Technologies
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python" width="30" /> <img src="https://skillicons.dev/icons?i=java" width="30" /> <img src="https://skillicons.dev/icons?i=cpp" width="30" /> <img src="https://skillicons.dev/icons?i=html" width="30" /> <img src="https://skillicons.dev/icons?i=css" width="30" /> <img src="https://skillicons.dev/icons?i=js" width="30" /> <img src="https://skillicons.dev/icons?i=react" width="30" /> <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> <img src="https://skillicons.dev/icons?i=express" width="30" /> <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> <img src="https://skillicons.dev/icons?i=figma" width="30" /> <img src="https://skillicons.dev/icons?i=vscode" width="30" /> <img src="https://skillicons.dev/icons?i=github" width="30" /> <img src="https://skillicons.dev/icons?i=linux" width="30" /> <img src="https://skillicons.dev/icons?i=docker" width="30" /> </p>
----
 
 # 🧰 My Dev Environment
 
